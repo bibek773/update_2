@@ -21,7 +21,7 @@
       },
       {
         "src": "/(.*)",
-        "dest": "authupdateentication/wsgi.py"
+        "dest": "update/wsgi.py"
       }
     ]
   }
