@@ -21,7 +21,7 @@
       },
       {
         "src": "/(.*)",
-        "dest": "auth/wsgi.py"
+        "dest": "update/wsgi.py"
       }
     ]
   }
